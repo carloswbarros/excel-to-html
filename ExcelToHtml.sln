@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelToHtml", "ExcelToHtml\ExcelToHtml.csproj", "{D5091F39-A750-4AFA-B569-ACD477EAFCAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{83123E14-1066-481B-AE20-8668F3C60495}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D5091F39-A750-4AFA-B569-ACD477EAFCAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5091F39-A750-4AFA-B569-ACD477EAFCAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5091F39-A750-4AFA-B569-ACD477EAFCAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83123E14-1066-481B-AE20-8668F3C60495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83123E14-1066-481B-AE20-8668F3C60495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83123E14-1066-481B-AE20-8668F3C60495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83123E14-1066-481B-AE20-8668F3C60495}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
